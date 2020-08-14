@@ -1,1 +1,1 @@
-# com.mogoCRUD.pro
+# com.mongodbCRUD.pro
